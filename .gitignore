@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/icris.SolarEdgeDownloader/.vs/icris.SolarEdgeDownloader/v16
+/icris.SolarEdgeDownloader/icris.SolarEdgeDownloader/obj
+/icris.SolarEdgeDownloader/icris.SolarEdgeDownloader/apikey.txt
